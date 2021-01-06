@@ -10,6 +10,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "commitizen": "^4.2.2"
+    "chalk": "^4.1.0",
+    "commitizen": "^4.2.2",
+    "inquirer": "^7.3.3",
+    "progress": "^2.0.3"
+  },
+  "dependencies": {
+    "minimist": "^1.2.5"
   }
 }
